@@ -10,4 +10,6 @@ Các bước cài đặt: (chế độ development)
 3. Update file .env (nếu cần thiết)
 4. Chạy dự án: npm run dev
 
-
+NPM I
+npm i --save-exact cors@2.8.5
+npm i --save-exact bcrypt@5.1.1
